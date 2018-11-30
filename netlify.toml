@@ -1,0 +1,4 @@
+[build]
+base="nba-players-app/"
+publish="nba-players-app/build/"
+command="npm run build"
